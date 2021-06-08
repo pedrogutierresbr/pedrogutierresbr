@@ -2,7 +2,11 @@
 
 I'm a Front-end Developer, that has been working with web delopment since the end of 2020. I'm graduated in Mechanical Engineering, but I've always been crazy about technology and now here I am!😁
 
-I am passionate about solving problems and learning new things. Always ready for new challenges!
+I am passionate about solving problems and learning new things. Always ready for challenges!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogutierresbr&show_icons=true&theme=radical)
+
+
 
 
 
