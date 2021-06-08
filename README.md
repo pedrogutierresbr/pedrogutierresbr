@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hey 👋
 
-I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+I'm a Front-end Developer, that has been working with web delopment since the end of 2020. I'm graduated in Mechanical Engineering, but I've always been crazy about technology and now here I am!😁
+
+I am passionate about solving problems and learning new things. Always ready for new challenges!
+
+
 
 <!--
 **pedrogutierresbr/pedrogutierresbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
