@@ -22,6 +22,7 @@ I am passionate about solving problems and learning new things. Always ready for
 <br>
 Reach me out 👇🏼
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gutierres/)](https://www.linkedin.com/in/pedro-gutierres/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/pegutierres/)](https://www.instagram.com/pegutierres/) 
 
 
