@@ -6,6 +6,9 @@ I am passionate about solving problems and learning new things. Always ready for
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogutierresbr&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact)](https://github.com/pedrogutierresbr/github-readme-stats)
+
+
 
 
 
