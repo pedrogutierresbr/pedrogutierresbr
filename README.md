@@ -6,7 +6,6 @@ I am passionate about solving problems and learning new things. Always ready for
 
 - 🌱 I’m currently learning ReactJS
 
-<br>
 
 **Languages and Tools:**  
 
@@ -14,14 +13,13 @@ I am passionate about solving problems and learning new things. Always ready for
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<div>
 
+<div>
 [![Pedro Gutierres's github stats](https://github-readme-stats.vercel.app/api?username=pedrogutierresbr&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 Reach me out 👇🏼
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gutierres/)](https://www.linkedin.com/in/pedro-gutierres/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/pegutierres/)](https://www.instagram.com/pegutierres/) 
 
