@@ -17,7 +17,7 @@ I am passionate about solving problems and learning new things. Always ready for
 
 <div>
   <a href="https://github.com/pedrogutierresbr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dark"/>
 </div><br>
 
 <div>
