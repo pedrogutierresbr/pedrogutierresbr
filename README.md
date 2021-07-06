@@ -6,7 +6,6 @@ I am passionate about solving problems and learning new things. Always ready for
 
 - 🌱 I’m currently learning ReactJS
 
-
 **Languages and Tools:**  
 
 <div style="display: inline_block">
@@ -16,11 +15,10 @@ I am passionate about solving problems and learning new things. Always ready for
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
+ <div>
+  <a href="https://github.com/pedrogutierresbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 Reach me out 👇🏼
 
