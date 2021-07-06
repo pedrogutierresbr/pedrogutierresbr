@@ -15,21 +15,17 @@ I am passionate about solving problems and learning new things. Always ready for
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
- <div>
+<div>
   <a href="https://github.com/pedrogutierresbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dark"/>
+</div><br>
 
-
-
-Reach me out 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gutierres/)](https://www.linkedin.com/in/pedro-gutierres/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/pegutierres/)](https://www.instagram.com/pegutierres/) 
-
+<div>
+  <a href="https://www.linkedin.com/in/pedro-gutierres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pegutierres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23EC1313?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div><br>
 
 <!--
-**pedrogutierresbr/pedrogutierresbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
