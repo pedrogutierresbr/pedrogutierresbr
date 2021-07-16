@@ -4,7 +4,7 @@ I'm a Front-end Developer, that has been working with web delopment since the en
 
 I am passionate about solving problems and learning new things. Always ready for challenges!🚀
 
-- 🌱 I’m currently learning ReactJS
+- 🚀 I'm currently honing my skills in React Js
 
 **Languages and Tools:**  
 
