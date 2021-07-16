@@ -1,4 +1,4 @@
-### Hello friend! ✌️
+### Hello friend! 🤖
 
 I'm a Front-end Developer, that has been working with web delopment since the end of 2020. I'm graduated in Mechanical Engineering, but I've always been crazy about technology and now here I am!😁
 
