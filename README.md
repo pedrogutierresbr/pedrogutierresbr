@@ -5,7 +5,7 @@ I'm a Front-end Developer, that has been working with web delopment since the en
 I am passionate about solving problems and learning new things. Always ready for new challenges!🚀
 
 - 🧠 I'm currently honing my skills in React JS
-- 🌱 I’m currently learning Jest
+- 🌱 I’m currently learning Mongo DB
 
 **Languages and Tools:**  
 
@@ -15,6 +15,8 @@ I am passionate about solving problems and learning new things. Always ready for
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Pedro-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Pedro-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div><br>
 
