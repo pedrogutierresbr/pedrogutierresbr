@@ -4,8 +4,8 @@ I'm a Front-end Developer, that has been working with web delopment since the en
 
 I am passionate about solving problems and learning new things. Always ready for new challenges!🚀
 
+- 🔭 I’m currently working on Cuponomia
 - 🧠 I'm currently honing my skills in React JS
-- 🌱 I’m currently learning Mongo DB
 
 **Languages and Tools:**  
 
