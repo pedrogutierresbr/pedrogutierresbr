@@ -4,8 +4,8 @@ I'm a Front-end Developer, that has been working with web delopment since the en
 
 I am passionate about solving problems and learning new things. Always ready for new challenges!🚀
 
-- 🔭 I’m currently working on Cuponomia
-- 🧠 I'm learning Python with a focus on Data Science
+- 🔭 I’m currently improving my skills as a front end developer
+- 🧠 I'm learning more about VueJS
 
 **Languages and Tools:**  
 
