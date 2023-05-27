@@ -26,7 +26,7 @@ I am passionate about solving problems and learning new things. Always ready for
 </div><br>
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-gutierres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/pedrogabrielgutierres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   <a href="https://www.instagram.com/pegutierres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23EC1313?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 </div><br>
 
