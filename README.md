@@ -1,11 +1,9 @@
 ### Hello friend! 🤖
 
-I'm a Front-end Developer, that has been working with web delopment since the end of 2020! 😁
+I'm a Front-end Developer, that has been working with web delopment since 2020! 😁
 
-I am passionate about solving problems and learning new things. Always ready for new challenges!🚀
-
-- 🔭 I’m currently improving my skills as a front end developer
-- 🧠 I'm learning more about VueJS
+- 🔭 I’m currently improving my skills about VueJS
+- 🧠 I'm learning more about Golang
 
 **Languages and Tools:**  
 
