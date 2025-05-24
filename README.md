@@ -3,7 +3,7 @@
 I'm a Front-end Developer, that has been working with web delopment since 2020! 😁
 
 - 🔭 I’m currently improving my skills about VueJS
-- 🧠 I'm learning about Golang
+- 🧠 I'm learning about Nuxt
 
 **Languages and Tools:**  
 
