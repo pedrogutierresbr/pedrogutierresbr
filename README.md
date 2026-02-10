@@ -21,11 +21,6 @@ I'm a Front-end Developer, that has been working with web delopment since 2020! 
 </div><br>
 
 <div>
-  <a href="https://github.com/pedrogutierresbr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogutierresbr&layout=compact&langs_count=16&theme=dark"/>
-</div><br>
-
-<div>
   <a href="https://www.linkedin.com/in/pedrogabrielgutierres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div><br>
 
